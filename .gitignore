@@ -1,7 +1,8 @@
+.bundle
+.rvmrc
+Gemfile.lock
+imports/*
 pkg/*
-tmp
 spec/support/*/Gemfile.lock
 spec/support/*/public/javascripts
-.rvmrc
-.bundle
-imports/*
+tmp
